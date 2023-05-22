@@ -6,20 +6,12 @@ image:
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
-***
-CEO
-* mail@mail.eu
-* +420 721333222
-* 1 cup packed brown sugar
+*** 
+CEO - mail@mail.eu, +420 721333222
 
-CTO
-* mail@mail.eu
-* +420 721333222
+CTO - mail@mail.eu, +420 721333222
 
-...
-* 1 cup packed brown sugar
-* 1 teaspoon baking soda
-* 1 teaspoon salt
+Address - Germany, Dresden 401 00, Whallop 212 
 ***
 
 ## Directions
