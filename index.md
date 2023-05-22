@@ -1,6 +1,10 @@
 ---
-layout: home
-limit: 10
-show_excerpts: true
-entries_layout: list
+title: Vizitka
+layout: collection
+permalink: /services/
+collection: services
+entries_layout: grid
 ---
+
+
+Poskytujeme spolehlive a rychle sluzby: `_services`.
