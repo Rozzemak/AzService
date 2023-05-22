@@ -1,5 +1,5 @@
 ---
-title: Vizitka
+title: Vizitiren
 layout: collection
 permalink: /services/
 collection: services
