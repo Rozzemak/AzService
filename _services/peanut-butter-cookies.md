@@ -1,8 +1,8 @@
 ---
-title: "Peanut Butter Cookies"
+title: "Logistic"
 image:
-  path: /images/icons/svgs/solid/phone.svg
-  thumbnail: /images/icons/svgs/solid/phone.svg
+  path: /images/icons/svgs/solid/people-arrows.svg
+  thumbnail: /images/icons/svgs/solid/people-arrows.svg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 

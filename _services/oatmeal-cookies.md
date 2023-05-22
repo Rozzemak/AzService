@@ -1,20 +1,26 @@
 ---
-title: "Pricing"
+title: "Contact"
 image: 
-  path: /images/icons/svgs/solid/people-arrows.svg
-  thumbnail: /images/icons/svgs/solid/people-arrows.svg
+  path: /images/icons/svgs/solid/phone.svg
+  thumbnail: /images/icons/svgs/solid/phone.svg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
-* 1 cup butter, softened 1 cup white sugar
+***
+CEO
+* mail@mail.eu
+* +420 721333222
 * 1 cup packed brown sugar
-* 2 eggs
-* 1 teaspoon vanilla extract
-* 2 cups all-purpose flour
+
+CTO
+* mail@mail.eu
+* +420 721333222
+
+...
+* 1 cup packed brown sugar
 * 1 teaspoon baking soda
 * 1 teaspoon salt
-* 1 1/2 teaspoons ground cinnamon
-* 3 cups quick cooking oats
+***
 
 ## Directions
 
