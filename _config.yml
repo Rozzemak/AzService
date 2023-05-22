@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: "Rozzemak/AzService"
 skin: "/assets/css/skins/default.css"
-locale: en-US
+locale: cs-CZ
 title: "A-Z Pendler"
-description: "It really is the best."
+description: "Pendler do nekonecna a jeste dal."
 baseurl: "/AzService" # the subpath of your site, e.g. "/blog"
 url: "https://rozzemak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/logo.svg" # path of site logo, e.g. "/images/logo.png"
@@ -99,8 +99,17 @@ author:
       url:
       icon:
 
-# Footer Links
+# Footer Links    
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/a-zpendler-de-cs
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/a-zpendler-de-cs
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/a-zpendler-de-cs
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
-    icon: fas fa-rss-square
+    icon: fas fa-rss-square    
