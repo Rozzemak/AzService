@@ -1,8 +1,8 @@
 ---
 title: "Pricing"
 image: 
-  path: /images/icons/svgs/solid/euro-sign.svg
-  thumbnail: /images/icons/svgs/solid/euro-sign.svg
+  path: /images/icons/svgs/solid/people-arrows.svg
+  thumbnail: /images/icons/svgs/solid/people-arrows.svg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
