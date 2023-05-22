@@ -18,11 +18,11 @@
 remote_theme: "Rozzemak/AzService"
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
+title: "A-Z Pendler"
 description: "It really is the best."
 baseurl: "/AzService" # the subpath of your site, e.g. "/blog"
 url: "https://rozzemak.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/images/logo.svg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
