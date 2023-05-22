@@ -1,8 +1,8 @@
 ---
 title: "Peanut Butter Cookies"
-image: 
-  path: /images/logo.svg
-  thumbnail: /images/logo.svg
+image:
+  path: /images/icons/svgs/solid/phone.svg
+  thumbnail: /images/icons/svgs/solid/phone.svg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
