@@ -1,14 +1,10 @@
 ---
-title: "Oatmeal Cookies"
+title: "Pricing"
 image: 
-  path: /images/logo.svg
-  thumbnail: /images/logo.svg
+  path: /images/icons/svgs/solid/euro-sing.svg
+  thumbnail: /images/icons/svgs/solid/euro-sing.svg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
-
-Oatmeal cookies are a proverbial favorite with both kids and adults. This crisp and chewy cookie is loaded with oats, dried fruit, and chopped nuts.
-
-## Ingredients
 
 * 1 cup butter, softened 1 cup white sugar
 * 1 cup packed brown sugar
