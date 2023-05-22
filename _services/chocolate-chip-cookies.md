@@ -2,7 +2,7 @@
 title: "Chocolate Chip Cookies"
 ---
 
-A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
+{% include finance.html content="Finance" %}
 
 The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as well as additional ingredients such as nuts or oatmeal.
 
@@ -31,4 +31,3 @@ This recipe makes 4 dozen cookies.
 5. Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.
 
 
-{% include finance-ico.html content="Finance" %}
