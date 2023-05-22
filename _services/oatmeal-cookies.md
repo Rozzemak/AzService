@@ -7,11 +7,9 @@ image:
 ---
 
 *** 
-CEO - mail@mail.eu, +420 721333222
-
-CTO - mail@mail.eu, +420 721333222
-
-Address - Germany, Dresden 401 00, Whallop 212 
+* CEO - mail@mail.eu, +420 721333222
+* CTO - mail@mail.eu, +420 721333222
+* Address - Germany, Dresden 401 00, Whallop 212 
 ***
 
 ## Directions
