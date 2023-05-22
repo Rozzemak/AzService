@@ -1,10 +1,7 @@
 ---
 title: "Chocolate Chip Cookies"
-image: 
-  path: /images/logo.svg
-  thumbnail: /images/logo.svg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
+{% include finance-ico.html content="Add your note here." %}
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
 
